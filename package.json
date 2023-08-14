@@ -1,0 +1,27 @@
+{
+  "name": "apirest-login-",
+  "version": "1.0.0",
+  "description": "api rest of login that can be use in web as mobile",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegod21/apiRest-login-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegod21/apiRest-login-/issues"
+  },
+  "homepage": "https://github.com/diegod21/apiRest-login-#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.4.3"
+  }
+}
